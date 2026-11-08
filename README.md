@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://harishsuresh.dev"><img src="https://img.shields.io/badge/harishsuresh.dev-161b22?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/harishsureshdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harishsuresh.contact@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:harishsuresh.contact@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square" alt="Email" /></a>
   <a href="https://harishsuresh.dev/resume.pdf"><img src="https://img.shields.io/badge/Resume_(PDF)-161b22?style=flat-square" alt="Resume" /></a>
 </p>
 
